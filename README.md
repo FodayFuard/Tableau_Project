@@ -13,7 +13,7 @@ The data used in this project was derived by running SQL queries on data found i
 
 Data: [Original_data_source_by_luke](https://drive.google.com/drive/folders/1moeWYoUtUklJO6NJdWo9OV8zWjRn0rjN)
 
-CVS files: [SQL_queries_csv](https://onedrive.live.com/?id=%2Fpersonal%2F2749f5080722ca24%2FDocuments%2FSQL%5Fqueries%5Fcsv&view=0)
+CVS files from OneDrive: [SQL_queries_csv](https://onedrive.live.com/?id=%2Fpersonal%2F2749f5080722ca24%2FDocuments%2FSQL%5Fqueries%5Fcsv&view=0)
 
 SQL Queries: [Queries](Queries)
 
