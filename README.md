@@ -8,12 +8,12 @@ File: [Most_optimal_data_analyst_skills](Most_optimal_data_analyst_skills_to_lea
 
 Link: [Most_optimal_skills](https://public.tableau.com/views/Most_optimal_data_analyst_skills_to_learn/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-# Data Source
+# Data Source and SQL Queries
 The data used in this project was derived by running SQL queries on data found in "ProjectSQL" repository.
 
 Data: [Original_data_source_by_luke](https://drive.google.com/drive/folders/1moeWYoUtUklJO6NJdWo9OV8zWjRn0rjN)
 
-CVS files: [SQL_queries_csv](SQL_queries_csv)
+CVS files: [SQL_queries_csv](https://onedrive.live.com/?id=%2Fpersonal%2F2749f5080722ca24%2FDocuments%2FSQL%5Fqueries%5Fcsv&view=0)
 
 SQL Queries: [Queries](Queries)
 
